@@ -4,24 +4,24 @@
 
 | Alert | Date | Author | Risk Score | Severity |
 | --- | --- | --- | --- | --- |
-|Data Archive for Potential Exfil|2024/07/11|['Marko Marulic']|50|medium|
 |Web Scanner Activity - Nmap and Nikto|2024/07/11|['Marko Marulic']|25|low|
+|Data Archive for Potential Exfil|2024/07/11|['Marko Marulic']|50|medium|
 ## Last Month
 ### Alerts
 
 | Alert | Date | Author | Risk Score | Severity |
 | --- | --- | --- | --- | --- |
-|Bat files observed in HTTP Traffic on Unusual Port |2024/06/11|['Marko Marulic']|100|medium|
-|PowerShell Execution via a BAT File|2024/06/11|['Marko Marulic']|100|medium|
 |Potential MSF PowerShell Payload Observed|2024/06/11|['Marko Marulic']|100|high|
-|Data Exfiltration Observed via FTP|2024/06/11|['Marko Marulic']|75|high|
+|PowerShell Execution via a BAT File|2024/06/11|['Marko Marulic']|100|medium|
+|Bat files observed in HTTP Traffic on Unusual Port |2024/06/11|['Marko Marulic']|100|medium|
 |Suspicious File Written to Temp Directory|2024/06/11|['Marko Marulic']|75|high|
+|Data Exfiltration Observed via FTP|2024/06/11|['Marko Marulic']|75|high|
 ## Two Months Ago
 ### Alerts
 
 | Alert | Date | Author | Risk Score | Severity |
 | --- | --- | --- | --- | --- |
 |New Alert|2024/05/11|['Marko Marulic']|1|medium|
-|PowerShell Invoke-WebRequest Downloading .BAT File|2024/05/11|['Marko Marulic']|50|medium|
 |Suspicious File Added to Registry|2024/05/11|['Marko Marulic']|75|high|
 |Excessive Web Traffic|2024/05/11|['Marko Marulic']|50|low|
+|PowerShell Invoke-WebRequest Downloading .BAT File|2024/05/11|['Marko Marulic']|50|medium|
