@@ -14,5 +14,5 @@
 
 | Alert | Date | Author | Risk Score | Severity |
 | --- | --- | --- | --- | --- |
-|Web Scanner Activity - Nmap and Nikto|2024/07/11|['Marko Marulic']|25|low|
 |Data Archive for Potential Exfil|2024/07/11|['Marko Marulic']|50|medium|
+|Web Scanner Activity - Nmap and Nikto|2024/07/11|['Marko Marulic']|25|low|
